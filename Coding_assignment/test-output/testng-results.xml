@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-10T12:21:48 IST" name="Suite" finished-at="2023-07-10T12:22:27 IST" duration-ms="38823">
+    <groups>
+    </groups>
+    <test started-at="2023-07-10T12:21:48 IST" name="Test" finished-at="2023-07-10T12:22:27 IST" duration-ms="38823">
+      <class name="com.CTSAssignment.Applaunch_Test.CTS_AppLaunchTest">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:com.CTSAssignment.Applaunch_Test.CTS_AppLaunchTest@2034b64c]" started-at="2023-07-10T12:21:23 IST" name="configureAppium" finished-at="2023-07-10T12:21:48 IST" duration-ms="24848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method is-config="true" signature="reportForEveryBeforeClass()[pri:0, instance:com.CTSAssignment.Applaunch_Test.CTS_AppLaunchTest@2034b64c]" started-at="2023-07-10T12:21:48 IST" name="reportForEveryBeforeClass" finished-at="2023-07-10T12:21:53 IST" duration-ms="5006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportForEveryBeforeClass -->
+        <test-method signature="Coding()[pri:0, instance:com.CTSAssignment.Applaunch_Test.CTS_AppLaunchTest@2034b64c]" started-at="2023-07-10T12:21:53 IST" name="Coding" finished-at="2023-07-10T12:22:06 IST" duration-ms="13410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Coding -->
+        <test-method is-config="true" signature="reportForEveryAfterClass()[pri:0, instance:com.CTSAssignment.Applaunch_Test.CTS_AppLaunchTest@2034b64c]" started-at="2023-07-10T12:22:06 IST" name="reportForEveryAfterClass" finished-at="2023-07-10T12:22:27 IST" duration-ms="20341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportForEveryAfterClass -->
+      </class> <!-- com.CTSAssignment.Applaunch_Test.CTS_AppLaunchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

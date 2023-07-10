@@ -1,0 +1,97 @@
+[
+  {
+    "name": "LOL-palooza",
+    "bands1": [
+      {
+        "name14": "Winter Primates",
+        "recordLabel": ""
+      },
+      {
+        "name3": "Frank Jupiter",
+        "recordLabel4": "Pacific Records"
+      },
+      {
+        "name5": "Jill Black",
+        "recordLabel": "Fourth Woman Records"
+      },
+      {
+        "name11": "Werewolf Weekday",
+        "recordLabel": "XS Recordings"
+      }
+    ]
+  },
+  {
+    "name": "Small Night In",
+    "bands": [
+      {
+        "name8": "Squint-281",
+        "recordLabel": "Outerscope"
+      },
+      {
+        "name10": "The Black Dashes",
+        "recordLabel": "Fourth Woman Records"
+      },
+      {
+        "name4": "Green Mild Cold Capsicum",
+        "recordLabel": "Marner Sis. Recording"
+      },
+      {
+        "name16": "Yanke East",
+        "recordLabel": "MEDIOCRE Music"
+      },
+      {
+        "name12": "Wild Antelope",
+        "recordLabel": "Marner Sis. Recording"
+      }
+    ]
+  },
+  {
+    "name": "Trainerella",
+    "bands": [
+      {
+        "name6": "Manish Ditch",
+        "recordLabel": "ACR"
+      },
+      {
+        "name1": "Adrian Venti",
+        "recordLabel": "Monocracy Records"
+      },
+      {
+        "name13": "Wild Antelope",
+        "recordLabel": "Still Bottom Records"
+      },
+      {
+        "name15": "YOUKRANE",
+        "recordLabel": "Anti Records"
+      }
+    ]
+  },
+  {
+    "name": "Twisted Tour",
+    "bands": [
+      {
+        "name9": "Summon",
+        "recordLabel": "Outerscope"
+      },
+      {
+        "name2": "Auditones",
+        "recordLabel": "Marner Sis. Recording"
+      },
+      {
+        "name7": "Squint-281"
+      }
+    ]
+  },
+  {
+    "bands": [
+      {
+        "name": "Critter Girls",
+        "recordLabel": "ACR"
+      },
+      {
+        "name": "Propeller",
+        "recordLabel": "Pacific Records"
+      }
+    ]
+  }
+]
